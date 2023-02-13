@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="schema.xsd">
+  <Airplane country = "India">
+    <Id>A001</Id>
+    <Make>Boeing</Make>
+    <Model>747</Model>
+    <Seats>400</Seats>
+    <EngineType>Turbofan</EngineType>
+    <YearManufactured>1998</YearManufactured>
+  </Airplane>
+  <Airplane country = "India">
+    <Id>A002</Id>
+    <Make>Airbus</Make>
+    <Model>A380</Model>
+    <Seats>853</Seats>
+    <EngineType>Turbofan</EngineType>
+    <YearManufactured>2007</YearManufactured>
+  </Airplane>
+  <Airplane country = "India">
+    <Id>A003</Id>
+    <Make>Embraer</Make>
+    <Model>E190</Model>
+    <Seats>114</Seats>
+    <EngineType>Turbofan</EngineType>
+    <YearManufactured>2004</YearManufactured>
+  </Airplane>
+</class>
